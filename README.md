@@ -22,3 +22,5 @@
 ►Predict accuracy -Score
 
 ►Validate result - Confusion Matrix, Classification Report
+
+►Repeat the process - Till the desirable validation result
